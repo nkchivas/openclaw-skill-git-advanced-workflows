@@ -1,0 +1,12 @@
+{
+  "name": "git-advanced-workflows",
+  "version": "1.0.0",
+  "description": "OpenClaw skill: git-advanced-workflows",
+  "author": "OpenClaw Assistant",
+  "license": "MIT",
+  "created": "2026-02-23T11:40:13.050763",
+  "category": "skills",
+  "files": [
+    "SKILL.md"
+  ]
+}
